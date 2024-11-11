@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="Lavender-Dir-Tree",
-    version="1.0.0",
+    version="1.0.1",
     description="A pip package for listing files.",
     long_description=open(
         "README.md").read(),
