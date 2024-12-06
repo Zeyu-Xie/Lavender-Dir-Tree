@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="Lavender-Dir-Tree",
-    version="1.0.1",
+    version="1.0.2",
     description="A pip package for listing files.",
     long_description=open(
         "README.md").read(),
@@ -14,7 +14,7 @@ setup(
     install_requires=[],
     classifiers=[
         "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: MIT License",
+        "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
         "Operating System :: OS Independent",
     ],
     python_requires=">=3.6",
